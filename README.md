@@ -1,3 +1,3 @@
-# Project To Do List
+# Title of the Project
 
 todo
