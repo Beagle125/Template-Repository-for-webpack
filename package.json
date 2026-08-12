@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/Beagle125/Project-ToDoList#readme",
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.8.1",
+    "globals": "^17.10.0",
+    "prettier": "3.9.6",
     "webpack": "^5.106.2",
     "webpack-cli": "^7.0.2",
     "webpack-merge": "^6.0.1"
